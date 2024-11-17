@@ -1,9 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/PooriaRabie)
 <h1 align="center">Hi 👋, I'm Pouria Rabiei</h1>
 <h3 align="center">AI engineer | Data scientist | Teacher and Researcher</h3>
-Aspiring Data Scientist with a strong foundation in mathematics, and machine learning. Equipped with hands-on experience from personal projects, I am proficient in Python, SQL, and data analytics tools, with a passion for transforming complex data into actionable insights. I aim to leverage AI to make a real impact in daily life and help businesses reduce costs through data-driven efficiencies.
+Aspiring Data Scientist with a strong foundation in mathematics, and machine learning. Equipped with hands-on experience from personal projects, I am proficient in Python, SQL, and data analytics tools, with a passion for transforming complex data into actionable insights. I aim to leverage AI to make a real impact in daily life and help businesses reduce costs through data-driven efficiencies.\ <br> <br>
 
-</br>
 
 * ✉️  You can contact me at [pooria.rabie3@gmail.com](mailto:pooria.rabie3@gmail.com) and [PooriaGeek Telegram](https://t.me/pooriageek)  
 * 🚀  I'm currently working on [MyThesis about dynamic Graph Anomaly detection](http://turinlearn.college)
