@@ -1,7 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/PooriaRabie)
 <h1 align="center">Hi 👋, I'm Pouria Rabiei</h1>
-<h3 align="center">AI Engineer | ML developer | Teacher and Researcher</h3>
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWYyMmVhOGI1Y2FmNWQxZGU4Y2Q2ZmE0NGU2MWVjYzA3YzRjNjVhMyZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
+<h3 align="center">AI engineer | Data scientist | Teacher and Researcher</h3>
 Master's degree at Kharazmi University in artificial intelligence engineer | Machine Learning and Deep Learning Researcher | founder of TurinLearn.college | Teacher and content creator | Graph Learning, Anomaly Detection
 
 * 🌍  I'm based in iran
