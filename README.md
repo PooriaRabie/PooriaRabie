@@ -3,10 +3,7 @@
 <h3 align="center">AI engineer | Data scientist | Teacher and Researcher</h3>
 Aspiring Data Scientist with a strong foundation in mathematics, and machine learning. Equipped with hands-on experience from personal projects, I am proficient in Python, SQL, and data analytics tools, with a passion for transforming complex data into actionable insights. I aim to leverage AI to make a real impact in daily life and help businesses reduce costs through data-driven efficiencies.
 
-* 🌍  I'm based in iran
-
-* 🖥️  See my portfolio at [LinkedIn](http://linkedin.com/in/pooria7676/)
-* ✉️  You can contact me at [pooria.rabie3@gmail.com](mailto:pooria.rabie3@gmail.com)
+* ✉️  You can contact me at [pooria.rabie3@gmail.com](mailto:pooria.rabie3@gmail.com) and [PooriaGeek Telegram](https://t.me/pooriageek)  
 * 🚀  I'm currently working on [MyThesis about dynamic Graph Anomaly detection](http://turinlearn.college)
 * 🧠  I'm learning Python, data mining, statistics, machine learning and deep learning
 * 🤝  I'm open to collaborating on Any topics related to artificial intelligence, machine learning, deep learning, anomaly detection, machine vision, time series, etc.
