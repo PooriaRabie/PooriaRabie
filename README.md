@@ -5,7 +5,7 @@ Aspiring Data Scientist with a strong foundation in mathematics, and machine lea
 
 
 * ✉️  You can contact me at [pooria.rabie3@gmail.com](mailto:pooria.rabie3@gmail.com) and [PooriaGeek Telegram](https://t.me/pooriageek)  
-* 🤝  I'm open to collaborating on Any topics related to Artificial Intelligence.
+* 🤝  I'm open to collaborating on Any topics related to Artificial Intelligence. <br> <br> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooriarabie&label=Profile%20views&color=0e75b6&style=flat" alt="pooriarabie" /> </p>
 <a href="https://www.github.com/PooriaRabie" target="_blank" rel="noreferrer"><img
