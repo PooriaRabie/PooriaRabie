@@ -1,14 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/PooriaRabie)
 <h1 align="center">Hi 👋, I'm Pouria Rabiei</h1>
 <h3 align="center">AI engineer | Data scientist | Teacher and Researcher</h3>
-Aspiring Data Scientist with a strong foundation in mathematics, and machine learning. Equipped with hands-on experience from personal projects, I am proficient in Python, SQL, and data analytics tools, with a passion for transforming complex data into actionable insights. I aim to leverage AI to make a real impact in daily life and help businesses reduce costs through data-driven efficiencies.\ <br> <br>
+Aspiring Data Scientist with a strong foundation in mathematics, and machine learning. Equipped with hands-on experience from personal projects, I am proficient in Python, SQL, and data analytics tools, with a passion for transforming complex data into actionable insights. I aim to leverage AI to make a real impact in daily life and help businesses reduce costs through data-driven efficiencies. <br> <br>
 
 
 * ✉️  You can contact me at [pooria.rabie3@gmail.com](mailto:pooria.rabie3@gmail.com) and [PooriaGeek Telegram](https://t.me/pooriageek)  
-* 🚀  I'm currently working on [MyThesis about dynamic Graph Anomaly detection](http://turinlearn.college)
-* 🧠  I'm learning Python, data mining, statistics, machine learning and deep learning
-* 🤝  I'm open to collaborating on Any topics related to artificial intelligence, machine learning, deep learning, anomaly detection, machine vision, time series, etc.
-* ⚡  I have loved learning and computer science since I was a child until now, I studied and worked in various computer fields. My passion for computers and the digital world has no limits. I have been active in this field for almost 15 years. Now I am reading various AI articles and checking the latest sources in the world of AI and finishing the courses in Coursera and Kaggle.
+* 🤝  I'm open to collaborating on Any topics related to Artificial Intelligence.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooriarabie&label=Profile%20views&color=0e75b6&style=flat" alt="pooriarabie" /> </p>
 <a href="https://www.github.com/PooriaRabie" target="_blank" rel="noreferrer"><img
